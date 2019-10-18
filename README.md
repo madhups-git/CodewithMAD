@@ -14,3 +14,4 @@ Day - 08: 14th October 2019 - A Python Script to check whether a key is existed 
 Day - 09: 15th October 2019 - A Python Script to convert decimal to binary <br/>
 Day - 10: 16th October 2019 - A Python Script to convert decimal to hexadecimal <br/>
 Day - 11: 17th October 2019 - A Python Script to swap two numbers <br/>
+Day - 12: 18th October 2019 - A Python Script to copy elements from one array to another array <br/>
