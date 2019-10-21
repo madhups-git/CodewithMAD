@@ -17,3 +17,4 @@ Day - 11: 17th October 2019 - A Python Script to swap two numbers <br/>
 Day - 12: 18th October 2019 - A Python Script to copy elements from one array to another array <br/>
 Day - 13: 19th October 2019 - A Python Script to Product of unique prime factors of a number <br/>
 Day - 14: 20th October 2019 - A Python Script to convert decimal to binary using recursion <br/>
+Day - 15: 21st October 2019 - A Python Script to print ASCII value of a character <br/>
