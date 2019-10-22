@@ -18,3 +18,4 @@ Day - 12: 18th October 2019 - A Python Script to copy elements from one array to
 Day - 13: 19th October 2019 - A Python Script to Product of unique prime factors of a number <br/>
 Day - 14: 20th October 2019 - A Python Script to convert decimal to binary using recursion <br/>
 Day - 15: 21st October 2019 - A Python Script to print ASCII value of a character <br/>
+Day - 16: 22nd October 2019 - A Python Script to check whether given number is strong number or not <br/>
