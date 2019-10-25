@@ -21,3 +21,4 @@ Day - 15: 21st October 2019 - A Python Script to print ASCII value of a characte
 Day - 16: 22nd October 2019 - A Python Script to check whether given number is strong number or not <br/>
 Day - 17: 23rd October 2019 - A Python Script to check number of prime digits in a given number <br/>
 Day - 18: 24th October 2019 - A Python Script to check number of even and odd digits in a given number <br/>
+Day - 19: 25th October 2019 - A Python Script to check number of palindrome elements in a given list <br/>
