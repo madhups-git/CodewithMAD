@@ -22,3 +22,6 @@ Day - 16: 22nd October 2019 - A Python Script to check whether given number is s
 Day - 17: 23rd October 2019 - A Python Script to check number of prime digits in a given number <br/>
 Day - 18: 24th October 2019 - A Python Script to check number of even and odd digits in a given number <br/>
 Day - 19: 25th October 2019 - A Python Script to check number of palindrome elements in a given list <br/>
+Day - 20: 26th October 2019 - A Python Script to check number of prime elements in a given list <br/>
+Day - 21: 27th October 2019 - A Python Script to check number of strong elements in a given list <br/>
+Day - 22: 28th October 2019 - A Python Script to check number of armstrong elements in a given list <br/>
