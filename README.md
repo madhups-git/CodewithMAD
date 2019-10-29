@@ -25,3 +25,4 @@ Day - 19: 25th October 2019 - A Python Script to check number of palindrome elem
 Day - 20: 26th October 2019 - A Python Script to check number of prime elements in a given list <br/>
 Day - 21: 27th October 2019 - A Python Script to check number of strong elements in a given list <br/>
 Day - 22: 28th October 2019 - A Python Script to check number of armstrong elements in a given list <br/>
+Day - 23: 29th October 2019 - A Python Script to print sum of all digits of all elements in a given list <br/>
