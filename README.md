@@ -28,3 +28,9 @@ Day - 22: 28th October 2019 - A Python Script to check number of armstrong eleme
 Day - 23: 29th October 2019 - A Python Script to print sum of all digits of all elements in a given list <br/>
 Day - 24: 30th October 2019 - A Python Script to print sum of all even digits and odd digits of all elements in a given list <br/>
 Day - 25: 31st October 2019 - A Python Script to find out the maximum element in a given list <br/>
+Day - 26: 1st November 2019 - A Python Script to find out the smallest element in a given list <br/>
+Day - 27: 2nd November 2019 - A Python Script to find out the range of a given list <br/>
+Day - 28: 3rd November 2019 - A Python Script to find out the next palindrome number after a given number <br/>
+Day - 29: 4th November 2019 - A Python Script to find out the reverse of all elements in a given list <br/>
+Day - 30: 5th November 2019 - A Python Script to find out the next Armstrong number after a given number <br/>
+Day - 31: 6th November 2019 - A Python Script to find out the next prime number after a given number <br/>
